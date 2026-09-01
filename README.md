@@ -2,9 +2,9 @@
 
 ## Team Members
 
-- Member A: Your Name - Student Number
-- Member B: Member B Name - Student Number
-- Member C: Member C Name - Student Number
+- Member A: Your Thinley Dema 02230154
+- Member B: Member B Kinley Tenzin 02230133
+- Member C: Member C Ugyen Wangmo 02230157
 
 ## Project
 
